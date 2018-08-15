@@ -21,8 +21,3 @@ open('metrics_sim.mlx')
 open('utility.mlx')
 open('rootfinding.mlx')
 
-
-%{ 
-Needed:
-An Euler equation and root-finding
-%}
